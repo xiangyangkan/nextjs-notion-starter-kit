@@ -2,14 +2,14 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7637f03f326c4d6db6c958463b2e9b41',
+  rootNotionPageId: '2529248c531f41599b5e3039394cb698',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'CoinAxiom',
+  name: '向阳之家',
   domain: 'coinaxiom.xyz',
   author: 'CoinAxiom',
 
